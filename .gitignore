@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.xlsx
+*.json
+internshala_bot.py
+internshala_applied.xlsx
